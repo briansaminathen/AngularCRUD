@@ -1,0 +1,10 @@
+th {
+	font-family: "Open Sans";
+	border: 1px solid red;
+	text-align: left;
+	background-color: #efefef
+}
+
+td {
+	border: 1px solid red;
+}
